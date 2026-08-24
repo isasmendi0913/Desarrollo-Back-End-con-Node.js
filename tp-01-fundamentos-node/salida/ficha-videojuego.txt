@@ -1,0 +1,9 @@
+FICHA DE VIDEOJUEGO
+Estudiante: camila
+Node.js: v24.19.0
+Plataforma del sistema: win32
+Título: Galactic Odyssey
+Estudio: Starforge Studios
+Año: 2024
+Plataformas: PC, PlayStation 5, Xbox Series X
+¿Es multijugador?: Sí
