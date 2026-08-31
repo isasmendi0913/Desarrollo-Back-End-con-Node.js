@@ -1,0 +1,92 @@
+[
+  {
+    "titulo": "Monopolio",
+    "editorial": "Hasbro",
+    "anio": 1935,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Estrategia", "Económico", "Familiar"],
+    "disponible": true
+  },
+  {
+    "titulo": "Juego de la Oca",
+    "editorial": "Devir",
+    "anio": 1980,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Familiar", "Azar"],
+    "disponible": true
+  },
+  {
+    "titulo": "Ludo",
+    "editorial": "Hasbro",
+    "anio": 1896,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Familiar", "Clásico"],
+    "disponible": false
+  },
+  {
+    "titulo": "El Ahorcado",
+    "editorial": "Dalmón",
+    "anio": 2010,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Educativo", "Palabras"],
+    "disponible": true
+  },
+  {
+    "titulo": "Cartas Españolas",
+    "editorial": "Fournier",
+    "anio": 1870,
+    "jugadoresMin": 2,
+    "jugadoresMax": 8,
+    "categorias": ["Clásico", "Cartas", "Tradicional"],
+    "disponible": true
+  },
+  {
+    "titulo": "Póker",
+    "editorial": "Bicycle",
+    "anio": 1829,
+    "jugadoresMin": 2,
+    "jugadoresMax": 10,
+    "categorias": ["Cartas", "Estrategia", "Apuestas"],
+    "disponible": false
+  },
+  {
+    "titulo": "Rompecabezas 1000 piezas",
+    "editorial": "Educa",
+    "anio": 2018,
+    "jugadoresMin": 1,
+    "jugadoresMax": 4,
+    "categorias": ["Puzzle", "Relajación"],
+    "disponible": true
+  },
+  {
+    "titulo": "TEG - Guerra",
+    "editorial": "Dalmón",
+    "anio": 1975,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Estrategia", "Guerra", "Clásico"],
+    "disponible": true
+  },
+  {
+    "titulo": "Dixit",
+    "editorial": "Devir",
+    "anio": 2008,
+    "jugadoresMin": 3,
+    "jugadoresMax": 6,
+    "categorias": ["Creatividad", "Imaginación", "Fiesta"],
+    "disponible": true
+  },
+  {
+    "titulo": "Truco Argentino",
+    "editorial": "Dalmón",
+    "anio": 1985,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Cartas", "Tradicional", "Estrategia"],
+    "disponible": true
+  }
+]
